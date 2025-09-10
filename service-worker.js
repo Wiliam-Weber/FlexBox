@@ -1,19 +1,16 @@
 
-const CACHE_NAME = 'agricultura-familiar-v1';
+const CACHE_NAME = 'agricultura-familiar';
 
 const assetsToCache = [
     '/',
-    '/index.html',
+    '/FlexBox.html',
     '/style.css',
-    '/script.js',
     '/manifest.json',
-    '/imagens/logo-agricultura.png',
-    '/imagens/fazenda.jpg',
-    '/imagens/cesta.jpg',
-    '/imagens/sementes.jpg',
-    '/imagens/familia.jpg',
-    '/imagens/icon-192.png',
-    '/imagens/icon-512.png',
+    '/img/logo.png',
+    '/img/fazenda.jpg',
+    '/img/cesta.jpg',
+    '/img/sementes.jpg',
+    '/img/familia.jpg',
     'https://www.svgrepo.com/show/508781/download-circle.svg' 
 ];
 
